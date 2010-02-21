@@ -1,3 +1,4 @@
+<<<<<<< HEAD:.gitignore
 JBB
 jbb
 JBB.*
@@ -6,3 +7,6 @@ jbb.*
 *.jbb
 *.log
 *.LOG
+=======
+
+>>>>>>> 6ed97fed64063c597c9a26c620eb920dab778ea8:.gitignore
