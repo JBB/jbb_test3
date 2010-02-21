@@ -4,3 +4,5 @@ JBB.*
 jbb.*
 *.JBB
 *.jbb
+*.log
+*.LOG
